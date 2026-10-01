@@ -1,0 +1,14 @@
+/home/max/Documents/C#/Program/obj/Debug/net10.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Documents/C#/Program/obj/Debug/net10.0/Program.AssemblyInfoInputs.cache
+/home/max/Documents/C#/Program/obj/Debug/net10.0/Program.AssemblyInfo.cs
+/home/max/Documents/C#/Program/obj/Debug/net10.0/Program.csproj.CoreCompileInputs.cache
+/home/max/Documents/C#/Program/bin/Debug/net10.0/Program
+/home/max/Documents/C#/Program/bin/Debug/net10.0/Program.deps.json
+/home/max/Documents/C#/Program/bin/Debug/net10.0/Program.runtimeconfig.json
+/home/max/Documents/C#/Program/bin/Debug/net10.0/Program.dll
+/home/max/Documents/C#/Program/bin/Debug/net10.0/Program.pdb
+/home/max/Documents/C#/Program/obj/Debug/net10.0/Program.dll
+/home/max/Documents/C#/Program/obj/Debug/net10.0/refint/Program.dll
+/home/max/Documents/C#/Program/obj/Debug/net10.0/Program.pdb
+/home/max/Documents/C#/Program/obj/Debug/net10.0/Program.genruntimeconfig.cache
+/home/max/Documents/C#/Program/obj/Debug/net10.0/ref/Program.dll
